@@ -1,0 +1,3 @@
+this is the file created using cat command
+cat command is used to create files with content
+to display content and to view multiple files content

@@ -1,0 +1,15 @@
+New York
+London
+Delhi
+Tokyo
+Beijing
+Colombo
+Muscat
+to edit a file in vi editor
+==========================
+vi <file name>
+press esc
+press i
+enter the content
+press esc
+press :wq
